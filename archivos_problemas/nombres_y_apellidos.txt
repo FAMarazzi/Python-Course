@@ -1,0 +1,17 @@
+Los datos son:
+
+Nombre: Federico
+Apellido: Marazzi
+-----------
+Nombre: Camila
+Apellido: Marazzi
+-----------
+Nombre: Sabrina
+Apellido: Zamira
+-----------
+Nombre: Alejandra
+Apellido: Permiso
+-----------
+Nombre: Mariela
+Apellido: Castaldini
+-----------
